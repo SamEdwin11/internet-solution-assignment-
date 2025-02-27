@@ -1,0 +1,5 @@
+Hey, I’m Sam Edwin Sampath!  
+
+I’m a data science enthusiast with a keen interest in geospatial analysis and web development. Currently, I’m pursuing my master’s in Data Science and Data Analytics at Maynooth University, Ireland. My journey into tech began during my undergraduate studies in Computer Science and Engineering at Meenakshi Sundararajan Engineering College, where I developed a strong foundation in programming, data analytics, and business intelligence.  
+
+I’ve worked on freelance web development projects, creating applications for hospitals and hotels to help them streamline operations and enhance their digital presence. My experience extends to data engineering, R programming, and machine learning, which I’ve explored through academic projects and real-world applications like predicting vehicular failure rate in F1 races.Beyond coding and analytics, I’m actively involved in badminton and engage with computer clubs to exchange knowledge and stay ahead of industry trends. I’m always open to collaborations and discussions that push the boundaries of technology!  
